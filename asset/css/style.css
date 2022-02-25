@@ -1,3 +1,10 @@
+.txt-align-c{
+    text-align: center;
+}
+.div-img img{
+    width: 100%;
+    border-radius: 20px;
+}
 .col-md-1,
 .col-md-2,
 .col-md-3,
