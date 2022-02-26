@@ -1,4 +1,8 @@
-.form-border-bottom{
+.border_rad_20px {
+    border-radius: 20px;
+}
+
+.form_border_bottom {
     border: none;
     border-bottom: 1px solid silver;
 }
