@@ -2,6 +2,9 @@
 .navbar-collapse {
     flex-grow: 0;
 }
+.form-control {
+    border-radius: 0;
+}
 /*BACKGROUND*/
 .bg_2c3e50 {
     background-color: #2c3e50;
