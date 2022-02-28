@@ -24,15 +24,12 @@
     border-radius: 20px;
 }
 
-.border_white {
-    border-color: white;
-}
-
-.hr_style {
+.border_style {
+    border: none;
     border: 2px solid;
-    color: white;
+    height: 2px;
 }
-
+/*end border*/
 .clip_path_circle {
     clip-path: circle(50%);
 }
